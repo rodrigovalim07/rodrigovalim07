@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+bem-vindo+ao+meu+perfil+do+GitHub!;Eu+sou+Rodrigo+Valim,+um+desenvolvedor+Full+Stack.&duration=3000&pause=200&color=FFFFFF&width=1000&height=50&size=30&font=Kanit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+bem-vindo+ao+meu+perfil+do+GitHub!;Eu+sou+Rodrigo+Valim,+um+desenvolvedor+Full+Stack.&center=true&duration=3000&pause=200&color=1E90FF&width=1000&height=50&size=30&font=Kanit)](https://www.linkedin.com/in/rodrigovalim07/)
 
 Sou um programador apaixodado por tecnologia e inovação, e estou sempre buscando me aprimorar e me manter atualizado através de estudos contínuos. Aqui você encontrará alguns dos meus trabalhos e contribuições mais recentes.
 Sinta-se à vontade para explorar meus repositórios, contribuir com sugestões ou entrar em contato para possíveis colaborações.
@@ -18,7 +18,7 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com sugestões 
 </div><br/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigovalim07&text_color=FFFFFF&title_color=FFFFFF&hide_border=true&&layout=pie&theme=transparent&locale=pt-br" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigovalim07&text_color=FFFFFF&title_color=FFFFFF&hide_border=true&layout=pie&bg_color=0d1117&locale=pt-br" alt="Top Langs">
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigovalim07&custom_title=Histórico%20de%20Commits&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=00FF00&hide_border=true)](https://github.com/rodrigovalim07/github-readme-activity-graph)
