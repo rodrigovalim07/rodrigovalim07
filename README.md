@@ -6,15 +6,15 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com sugestões 
 ## Tecnologias e Ferramentas:
 
 <div align="center">
-  <img align="center" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50">&nbsp;&nbsp;
-  <img align="center" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50">&nbsp;&nbsp;
-  <img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50">&nbsp;&nbsp;
-  <img align="center" alt="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="50">&nbsp;&nbsp;
-  <img align="center" alt="Node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="50">&nbsp;&nbsp;
-  <img align="center" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="50">&nbsp;&nbsp;
-  <img align="center" alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="50">&nbsp;&nbsp;
-  <img align="center" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="50">&nbsp;&nbsp;
-  <img align="center" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="50">
+  <img align="center" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="45">&nbsp;&nbsp;
+  <img align="center" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45">&nbsp;&nbsp;
+  <img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="45">&nbsp;&nbsp;
+  <img align="center" alt="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="45">&nbsp;&nbsp;
+  <img align="center" alt="Node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="45">&nbsp;&nbsp;
+  <img align="center" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="45">&nbsp;&nbsp;
+  <img align="center" alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="45">&nbsp;&nbsp;
+  <img align="center" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="45">&nbsp;&nbsp;
+  <img align="center" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="45">
 </div><br/>
 
 <div align="center">
@@ -25,6 +25,6 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com sugestões 
 
 ## Onde me encontrar:
 
-<a href="https://www.linkedin.com/in/rodrigovalim07/" target="_blank"><img src="https://github.com/user-attachments/assets/55b5081a-ec4d-4339-8c79-4d3c105c9268" alt="LinkedIn Icon" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:rodrigovalimjr2011@hotmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/a52e0048-d558-441b-9ecc-e1d15cb955ed" alt="Outlook Icon" height="50" style="text-decoration: none;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/rodrigo.valim.07/" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" alt="Instagram Icon" height="50"></a>
+<a href="https://www.linkedin.com/in/rodrigovalim07/" target="_blank"><img src="https://github.com/user-attachments/assets/55b5081a-ec4d-4339-8c79-4d3c105c9268" alt="LinkedIn Icon" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:rodrigovalimjr2011@hotmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/a52e0048-d558-441b-9ecc-e1d15cb955ed" alt="Outlook Icon" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/rodrigo.valim.07/" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" alt="Instagram Icon" height="40"></a>
