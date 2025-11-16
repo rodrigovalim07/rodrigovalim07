@@ -27,4 +27,4 @@ Sinta-se à vontade para explorar meus repositórios, contribuir com sugestões 
 
 <a href="https://www.linkedin.com/in/rodrigovalim07/" target="_blank"><img src="https://github.com/user-attachments/assets/55b5081a-ec4d-4339-8c79-4d3c105c9268" alt="LinkedIn Icon" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:rodrigovalimjr2011@hotmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/a52e0048-d558-441b-9ecc-e1d15cb955ed" alt="Outlook Icon" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/rodrigo.valim.07/" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" alt="Instagram Icon" height="40"></a>
+<a href="https://www.instagram.com/rodrigo.valim.07/" target="_blank"><img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram Icon" height="40"></a>
